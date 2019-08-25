@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/clay"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".QuizActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="36dp"
+        android:layout_marginRight="36dp"
+        android:text="Qual é esse Pokémon ?"
+        app:layout_constraintEnd_toEndOf="@+id/rgRespostas"
+        app:layout_constraintTop_toBottomOf="@+id/imgPergunta" />
+
+    <RadioGroup
+        android:id="@+id/rgRespostas"
+        android:layout_width="204dp"
+        android:layout_height="123dp"
+        android:layout_marginStart="96dp"
+        android:layout_marginLeft="96dp"
+        android:layout_marginBottom="58dp"
+        app:layout_constraintBottom_toTopOf="@+id/botaoResponder"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgPergunta">
+
+        <RadioButton
+            android:id="@+id/rbReposta1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bulbassauro" />
+
+        <RadioButton
+            android:id="@+id/rbReposta2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Charmander" />
+
+        <RadioButton
+            android:id="@+id/rbResposta3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Squirtle" />
+
+        <RadioButton
+            android:id="@+id/rbResposta4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pikachu" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/botaoResponder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginBottom="66dp"
+        android:onClick="btnResponder"
+        android:text="Responder"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/rgRespostas"
+        app:layout_constraintTop_toBottomOf="@+id/rgRespostas" />
+
+    <ImageView
+        android:id="@+id/imgPergunta"
+        android:layout_width="165dp"
+        android:layout_height="109dp"
+        android:layout_marginTop="58dp"
+        android:layout_marginBottom="38dp"
+        android:src="@drawable/bulbassauro_img"
+        app:layout_constraintBottom_toTopOf="@+id/rgRespostas"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,4 @@
+#Wed Jun 19 20:52:29 BRT 2019
+base.0=C\:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

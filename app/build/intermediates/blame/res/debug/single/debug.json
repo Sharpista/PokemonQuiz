@@ -1,0 +1,470 @@
+[
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_cascading_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_view.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ratata_img.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\ratata_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_cubone_somra.jpg.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\cubone_somra.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_metapod_sombra.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\metapod_sombra.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_gaisensei.jpg.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\gaisensei.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\e6403649940cf83439c3c303fa89effb\\core-1.0.1\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vulpix_sombra.jpg.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\vulpix_sombra.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\e6403649940cf83439c3c303fa89effb\\core-1.0.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_geodude.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\geodude.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_entei_img.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\entei_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_pikachu_inicial.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\pikachu_inicial.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\e6403649940cf83439c3c303fa89effb\\core-1.0.1\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_bar.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_pigeot_sombra.jpg.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\pigeot_sombra.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_metapod_img.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\metapod_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ekans_img.jpg.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\ekans_img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_cubone_img.jpg.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\cubone_img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_acertoumizeravi.jpg.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\acertoumizeravi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\e6403649940cf83439c3c303fa89effb\\core-1.0.1\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\e6403649940cf83439c3c303fa89effb\\core-1.0.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_chansey_img.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\chansey_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_grimer_sombra.jpg.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\grimer_sombra.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\e6403649940cf83439c3c303fa89effb\\core-1.0.1\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_psyduck_img.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\psyduck_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_wartotle_img.jpg.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\wartotle_img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ekans_sombra.jpg.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\ekans_sombra.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_multichoice_material.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mewtwo_img.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\mewtwo_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_header_item_layout.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_clefairy_img.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\clefairy_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_resposta_1.xml.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\layout\\activity_resposta_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_content_include.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_charizard_sombra.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\charizard_sombra.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\e6403649940cf83439c3c303fa89effb\\core-1.0.1\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_charizard_img.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\charizard_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_icon.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_segunda.xml.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\layout\\activity_segunda.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_poliwhril.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\poliwhril.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_stat.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\stat.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_wartotle_sobra.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\wartotle_sobra.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_poliwril_sombra.jpg.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\poliwril_sombra.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_pokemonquiz_img.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\pokemonquiz_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_clefairy_sombra.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\clefairy_sombra.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_pikachu_sombra.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\pikachu_sombra.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mewtwo_sombra.jpg.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\mewtwo_sombra.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_select_dialog_material.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_title_item.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_squirtle_sombra.jpg.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\squirtle_sombra.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_entei_sombra.jpg.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\entei_sombra.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bulbassauro_img.jpg.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\bulbassauro_img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_moltres_sombra.jpg.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\moltres_sombra.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_pigeot_img.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\pigeot_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\e6403649940cf83439c3c303fa89effb\\core-1.0.1\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_grimer_img.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\grimer_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\e6403649940cf83439c3c303fa89effb\\core-1.0.1\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_material.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_psyduck_sombra.jpg.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\psyduck_sombra.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_moltres_img.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\moltres_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\e6403649940cf83439c3c303fa89effb\\core-1.0.1\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_pokebola_img.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\pokebola_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_download.jpg.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\download.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_terceira.xml.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\layout\\activity_terceira.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout-watch-v20\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_repostaerrada.jpg.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\repostaerrada.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout-v26\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ratata_sombra.jpg.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\ratata_sombra.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vulpix_img.jpg.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\vulpix_img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fufu.jpg.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\fufu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_chansey_sombra.jpg.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\chansey_sombra.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\e6403649940cf83439c3c303fa89effb\\core-1.0.1\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_tooltip.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_tooltip.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
+        "source": "C:\\Users\\Diego\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_squirte_img.jpg.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\squirte_img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bulbassauro_sombra.png.flat",
+        "source": "C:\\Users\\Diego\\AndroidStudioProjects\\PokemonQuizAT\\Pokemon_Quiz\\app\\src\\main\\res\\drawable-v24\\bulbassauro_sombra.png"
+    }
+]
